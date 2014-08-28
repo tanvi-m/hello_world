@@ -1,4 +1,4 @@
 hello_world
 ===========
 Hi there, I am college sophomore!
-I am majoring in Computer Science Engineering. :)
+I am majoring in Computer Science Engineering. :D
